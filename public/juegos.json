@@ -1,0 +1,152 @@
+[
+    {
+        "id": "IF001",
+        "name": "Red Dead Redemption 2",
+        "genre": ["Acción", "Aventuras", "FPS/TPS"],
+        "img": "https://ibb.co/QpcF5M5",
+        "platform": "PlayStation 4",
+        "seller": "Esteban Urrutia",
+        "date": "14/10/2022",
+        "price": "20000"
+    },
+    {
+        "id": "IF002",
+        "name": "Dirt 5",
+        "genre": ["Deporte", "Simulación", "Carreras"],
+        "img": "https://ibb.co/Kwhw2jp",
+        "platform": "Xbox One",
+        "seller": "Claudio Valdes",
+        "date": "08/10/2022",
+        "price": "15000"
+    },
+    {
+        "id": "IF003",
+        "name": "Xenoblade Chronicles 3",
+        "genre": ["Aventuras", "RPG"],
+        "img": "https://ibb.co/4RGm2LV",
+        "platform": "Nintendo Switch",
+        "seller": "Boris Cuevas",
+        "date": "11/10/2022",
+        "price": "12000"
+    },
+    {
+        "id": "IF004",
+        "name": "Mortal Kombat 11",
+        "genre": ["Acción", "Lucha"],
+        "img": "https://ibb.co/MRd7sX3",
+        "platform": "Xbox One",
+        "seller": "Victor Valenzuela",
+        "date": "10/10/2022",
+        "price": "25000"
+    },
+    {
+        "id": "IF005",
+        "name": "Mario Kart 8 Deluxe",
+        "genre": ["Carreras"],
+        "img": "https://ibb.co/278y4BF",
+        "platform": "Nintendo Switch",
+        "seller": "Rodolfo Zabala",
+        "date": "09/10/2022",
+        "price": "27000"
+    },
+    {
+        "id": "IF006",
+        "name": "Hades",
+        "genre": ["Acción", "Aventuras"],
+        "img": "https://ibb.co/rsgC8kh",
+        "platform": "PlayStation 4",
+        "seller": "Roberto Godoy",
+        "date": "27/10/2022",
+        "price": "18000"
+    },
+    {
+        "id": "IF007",
+        "name": "Need for Speed: Heat",
+        "genre": ["Carreras"],
+        "img": "https://ibb.co/9bMXRDR",
+        "platform": "Xbox One",
+        "seller": "Abigail Contreras",
+        "date": "24/10/2022",
+        "price": "16000"
+    },
+    {
+        "id": "IF008",
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "genre": ["Acción", "Aventuras"],
+        "img": "https://ibb.co/gJMgqy2",
+        "platform": "Nintendo Switch",
+        "seller": "Nora Correa",
+        "date": "04/10/2022",
+        "price": "30000"
+    },
+    {
+        "id": "IF009",
+        "name": "Days Gone",
+        "genre": ["Acción", "Aventuras"],
+        "img": "https://ibb.co/278y4BF",
+        "platform": "PlayStation 4",
+        "seller": "Kevin Soto",
+        "date": "22/10/2022",
+        "price": "12000"
+    },
+    {
+        "id": "IF010",
+        "name": "WWE 2K Battlegrounds",
+        "genre": ["Acción", "Deporte", "Lucha"],
+        "img": "https://ibb.co/dBqPYr4",
+        "platform": "Xbox One",
+        "seller": "Enrique Cruz",
+        "date": "04/10/2022",
+        "price": "22000"
+    },
+    {
+        "id": "IF011",
+        "name": "Donkey Kong Country: Tropical Freeze",
+        "genre": ["Aventuras", "Plataforma"],
+        "img": "https://ibb.co/tmgddtq",
+        "platform": "Nintendo Switch",
+        "seller": "Enrique Cruz",
+        "date": "04/10/2022",
+        "price": "18000"
+    },
+    {
+        "id": "IF012",
+        "name": "Death Stranding",
+        "genre": ["Acción", "Aventuras"],
+        "img": "https://ibb.co/Nxr1Myd",
+        "platform": "PlayStation 4",
+        "seller": "Geremy Labra",
+        "date": "15/10/2022",
+        "price": "14000"
+    },
+    {
+        "id": "IF013",
+        "name": "Shovel Knight: Treasure Trove",
+        "genre": ["Plataforma"],
+        "img": "https://ibb.co/xDHpmCR",
+        "platform": "Xbox One",
+        "seller": "Ulises Loayza",
+        "date": "12/10/2022",
+        "price": "24000"
+    },
+    {
+        "id": "IF014",
+        "name": "Super Smash Bros Ultimate",
+        "genre": ["Lucha"],
+        "img": "https://ibb.co/YhYTkV8",
+        "platform": "Nintendo Switch",
+        "seller": "Héctor Hidalgo",
+        "date": "09/10/2022",
+        "price": "17000"
+    },
+    {
+        "id": "IF015",
+        "name": "Nioh 2",
+        "genre": ["Acción", "RPG"],
+        "img": "https://ibb.co/MB3HWQY",
+        "platform": "PlayStation 4",
+        "seller": "Javier Zabala",
+        "date": "20/10/2022",
+        "price": "19000"
+    }
+]
