@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 
 body {
@@ -18,6 +18,24 @@ body {
     url(../img/banner.jpg) no-repeat center center fixed;
 }
 
+/* Backgrounds */
+.bg-nav-footer {
+    background-color: #270a44;
+}
+
+.bg-cyan {
+    background-color: #00e5ff;
+}
+
+.bg-login-register {
+    background-color: #7c007f;
+}
+
+.bg-search {
+    background-color: #523b69;
+}
+
+/* Buttons */
 .btn-outline-cyan {
     color: #00e5ff;
     border: 1px solid #00e5ff;
@@ -40,10 +58,6 @@ body {
     border: 1px solid #f700fd;
 }
 
-.bg-purple {
-    background-color: #7c007f;
-}
-
 .btn-forms {
     background-color: #00e5ff;
     color: #270a44;
@@ -52,6 +66,24 @@ body {
 .btn-forms:hover {
     background-color: #00acbf;
     color: #270a44;
+}
+
+/* Texts */
+.titles {
+    font-size: 24px;
+    font-weight: 700;
+    color:rgb(0, 229, 255);
+}
+
+.subtitles {
+    font-size: 21px;
+    font-weight: 400;
+    color: rgb(255, 199, 96);
+}
+
+.texts {
+    font-size: 16px;
+    font-weight: 300;
 }
 
 .text-cyan {
@@ -76,6 +108,22 @@ body {
     color: #cb99cc;
 }
 
+.active {
+    text-decoration: none;
+    color: rgb(247, 0, 253);
+}
+  
+.inactive {
+    text-decoration: none;
+    color: rgb(0, 229, 255);
+}
+
+/* Color fonts */
+font-cyan{
+    color: rgb(0, 229, 255);
+}
+
+/* ========================================================================================== */
 .home-content {
     width: 100%;
     height: 100%;
@@ -124,16 +172,11 @@ body {
 .title {
     display: flex;
     flex-direction: column;
-    gap:10px;
-    margin: 120px 0 0 150px;
-}
-
-.title {
-    display: flex;
-    flex-direction: column;
     font-size: 4.375rem;
     font-weight: 700;
-    text-align: left;  
+    text-align: left;
+    gap:10px;
+    margin: 120px 0 0 150px;  
 }
 
 .line {
@@ -144,26 +187,8 @@ body {
     margin-right: 150px;
 }
 
-.bg-darkpurple {
-    background-color: #270a44;
-}
-
-.bg-cyan {
-    background-color: #00e5ff;
-}
-
-.active {
-    text-decoration: none;
-    color: rgb(247, 0, 253);
-}
-  
-.inactive {
-    text-decoration: none;
-    color: rgb(0, 229, 255);
-}
-
 ion-icon {
-    font-size: 1.75rem;
+    font-size: 1.1rem;
 }
 
 footer {
@@ -182,6 +207,19 @@ footer  p {
 }
 
 .icons {
+    display: flex;
+    gap: 10px;
+}
+
+.main-search {
+    width: 350px;
+}
+
+.inputs-search {
+    width: 220px;
+}
+
+.selects {
     display: flex;
     gap: 10px;
 }

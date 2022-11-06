@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/styles.css';
-import Logo from '../img/infinitygames-light.png'
+import Logo from '../img/infinitygames-logo.png'
 import { Link, useNavigate } from 'react-router-dom';
 
 const Login = () => {
@@ -21,7 +21,7 @@ const Login = () => {
                     ¡Bienvenido! <br />¡Nos <br />alegra <br />verte!                 
                 </h2>
                 <div className="container forms mt-5 px-5 py-5">
-                  <form className='bg-purple p-5'>
+                  <form className='bg-login-register p-5'>
                     <h3 className='text-white text-start'>Iniciar sesión</h3>
                     <p className='text-start text-lightpurple'>
                       ¿Nuevo usuario? <Link to="/register" className='text-cyan'>Crea una cuenta</Link>

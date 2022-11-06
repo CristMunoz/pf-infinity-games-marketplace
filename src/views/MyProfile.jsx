@@ -1,19 +1,16 @@
 import React from 'react'
+import EditProfile from '../components/EditProfile'
 import Footer from '../components/Footer'
-import NavbarDark from '../components/NavbarDark'
+import NavbarDark from '../components/NavBar'
 
 const MyProfile = () => {
   return (
     <>
         <NavbarDark />
-        <div className="container-fluid main-bg">
-            <div className="container bg-cyan">
-                <div className="row">
-                    <div className="col-12 col-lg-4">
-                        
-                    </div>
-                </div>
-            </div>    
+        <div className="container">
+          <div className="row">
+            <EditProfile />        
+          </div>
         </div>
         <Footer />  
     </>

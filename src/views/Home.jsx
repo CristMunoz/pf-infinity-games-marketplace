@@ -1,6 +1,6 @@
 import React from 'react'
 import '../css/styles.css';
-import Logo from '../img/infinitygames-light.png'
+import Logo from '../img/infinitygames-logo.png'
 import { Link } from 'react-router-dom';
 
 const Home = () => {

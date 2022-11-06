@@ -2,151 +2,181 @@
     {
         "id": "IF001",
         "name": "Red Dead Redemption 2",
-        "genre": ["Acción", "Aventuras", "FPS/TPS"],
-        "img": "https://ibb.co/QpcF5M5",
-        "platform": "PlayStation 4",
+        "category": ["Acción", "Aventuras", "FPS/TPS"],
+        "img": "https://images.zmart.cl/Productos/SKU/2018/10/03/PS4G0550_201810315402_f.jpg",
+        "console": "PlayStation 4",
         "seller": "Esteban Urrutia",
         "date": "14/10/2022",
-        "price": "20000"
+        "location": "Estación Central, Región Metropolitana de Santiago",
+        "desc": "Poco usado, se entrega en las estaciones San Alberto Hurtado y Estación Central (Línea 1)",
+        "price": 20000
     },
     {
         "id": "IF002",
         "name": "Dirt 5",
-        "genre": ["Deporte", "Simulación", "Carreras"],
-        "img": "https://ibb.co/Kwhw2jp",
-        "platform": "Xbox One",
+        "category": ["Deporte", "Simulación", "Carreras"],
+        "img": "https://images.zmart.cl/Productos/SKU/2020/07/23/XBONEG1097_2020723112348_f.jpg",
+        "console": "Xbox One",
         "seller": "Claudio Valdes",
         "date": "08/10/2022",
-        "price": "15000"
+        "location": "Renca, Región Metropolitana de Santiago",
+        "desc": "Como nuevo, se entrega en la estación Gruta de Lourdes (Línea 5)",
+        "price": 15000
     },
     {
         "id": "IF003",
         "name": "Xenoblade Chronicles 3",
-        "genre": ["Aventuras", "RPG"],
-        "img": "https://ibb.co/4RGm2LV",
-        "platform": "Nintendo Switch",
+        "category": ["Aventuras", "RPG"],
+        "img": "https://images.zmart.cl/Productos/SKU/2022/04/20/NSWG0919_202242013258_f.jpg",
+        "console": "Nintendo Switch",
         "seller": "Boris Cuevas",
         "date": "11/10/2022",
-        "price": "12000"
+        "location": "La Cisterna, Región Metropolitana de Santiago",
+        "desc": "Impecable, entrego en la estación La Cisterna (Línea 1)",
+        "price": 12000
     },
     {
         "id": "IF004",
         "name": "Mortal Kombat 11",
-        "genre": ["Acción", "Lucha"],
-        "img": "https://ibb.co/MRd7sX3",
-        "platform": "Xbox One",
+        "category": ["Acción", "Lucha"],
+        "img": "https://images.zmart.cl/Productos/SKU/2019/04/18/XBONEG871_2019418145624_f.jpg",
+        "console": "Xbox One",
         "seller": "Victor Valenzuela",
         "date": "10/10/2022",
-        "price": "25000"
+        "location": "Maipú, Región Metropolitana de Santiago",
+        "desc": "Todo en buen estado, entrego en la estación Plaza de Maipú (Línea 5)",
+        "price": 25000
     },
     {
         "id": "IF005",
         "name": "Mario Kart 8 Deluxe",
-        "genre": ["Carreras"],
-        "img": "https://ibb.co/278y4BF",
-        "platform": "Nintendo Switch",
+        "category": ["Carreras"],
+        "img": "https://images.zmart.cl/Productos/SKU/2017/01/13/NSWG0029_2017113111053_f.jpg",
+        "console": "Nintendo Switch",
         "seller": "Rodolfo Zabala",
         "date": "09/10/2022",
-        "price": "27000"
+        "location": "Huechuraba, Región Metropolitana de Santiago",
+        "desc": "Poco usado por temas de estudio y trabajo",
+        "price": 27000
     },
     {
         "id": "IF006",
         "name": "Hades",
-        "genre": ["Acción", "Aventuras"],
-        "img": "https://ibb.co/rsgC8kh",
-        "platform": "PlayStation 4",
+        "category": ["Acción", "Aventuras"],
+        "img": "https://images.zmart.cl/Productos/SKU/2021/07/07/PS4G1848_202177114310_f.png",
+        "console": "PlayStation 4",
         "seller": "Roberto Godoy",
         "date": "27/10/2022",
-        "price": "18000"
+        "location": "San Miguel, Región Metropolitana de Santiago",
+        "desc": "Juego nuevo sellado",
+        "price": 18000
     },
     {
         "id": "IF007",
         "name": "Need for Speed: Heat",
-        "genre": ["Carreras"],
-        "img": "https://ibb.co/9bMXRDR",
-        "platform": "Xbox One",
+        "category": ["Carreras"],
+        "img": "https://images.zmart.cl/Productos/SKU/2019/08/14/XBONEG1011_2019814104511_f.jpg",
+        "console": "Xbox One",
         "seller": "Abigail Contreras",
         "date": "24/10/2022",
-        "price": "16000"
+        "location": "Maipú, Región Metropolitana de Santiago",
+        "desc": "En perfecto estado",
+        "price": 16000
     },
     {
         "id": "IF008",
         "name": "The Legend of Zelda: Breath of the Wild",
-        "genre": ["Acción", "Aventuras"],
-        "img": "https://ibb.co/gJMgqy2",
-        "platform": "Nintendo Switch",
+        "category": ["Acción", "Aventuras"],
+        "img": "https://images.zmart.cl/Productos/SKU/2017/01/13/NSWG0001_201711394433_f.jpg",
+        "console": "Nintendo Switch",
         "seller": "Nora Correa",
         "date": "04/10/2022",
-        "price": "30000"
+        "location": "Estación Central, Región Metropolitana de Santiago",
+        "desc": "Vendo juego Zelda breath of the wild usado una vez poco uso",
+        "price": 30000
     },
     {
         "id": "IF009",
         "name": "Days Gone",
-        "genre": ["Acción", "Aventuras"],
-        "img": "https://ibb.co/278y4BF",
-        "platform": "PlayStation 4",
+        "category": ["Acción", "Aventuras"],
+        "img": "https://images.zmart.cl/Productos/SKU/2021/02/25/PS4G0469_2021225161134_f.jpg",
+        "console": "PlayStation 4",
         "seller": "Kevin Soto",
         "date": "22/10/2022",
-        "price": "12000"
+        "location": "La Florida, Región Metropolitana de Santiago",
+        "desc": "Impecable, se entrega en metro Santa Julia (Línea 4A)",
+        "price": 12000
     },
     {
         "id": "IF010",
         "name": "WWE 2K Battlegrounds",
-        "genre": ["Acción", "Deporte", "Lucha"],
-        "img": "https://ibb.co/dBqPYr4",
-        "platform": "Xbox One",
+        "category": ["Acción", "Deporte", "Lucha"],
+        "img": "https://images.zmart.cl/Productos/SKU/2020/07/08/XBONEG1143_202078124121_f.jpg",
+        "console": "Xbox One",
         "seller": "Enrique Cruz",
         "date": "04/10/2022",
-        "price": "22000"
+        "location": "Lo Prado, Región Metropolitana de Santiago",
+        "desc": "En perfecto estado, usado una vez",
+        "price": 22000
     },
     {
         "id": "IF011",
         "name": "Donkey Kong Country: Tropical Freeze",
-        "genre": ["Aventuras", "Plataforma"],
-        "img": "https://ibb.co/tmgddtq",
-        "platform": "Nintendo Switch",
-        "seller": "Enrique Cruz",
-        "date": "04/10/2022",
-        "price": "18000"
+        "category": ["Aventuras", "Plataforma"],
+        "img": "https://images.zmart.cl/Productos/SKU/2018/01/11/NSWG0137_2018111122945_f.jpg",
+        "console": "Nintendo Switch",
+        "seller": "Yerko Araya",
+        "date": "17/10/2022",
+        "location": "Huechuraba, Región Metropolitana de Santiago",
+        "desc": "Juego en perfecto estado, entrego en metro Conchalí",
+        "price": 18000
     },
     {
         "id": "IF012",
         "name": "Death Stranding",
-        "genre": ["Acción", "Aventuras"],
-        "img": "https://ibb.co/Nxr1Myd",
-        "platform": "PlayStation 4",
+        "category": ["Acción", "Aventuras"],
+        "img": "https://images.zmart.cl/Productos/SKU/2019/07/22/PS4G0471_20197229759_f.jpg",
+        "console": "PlayStation 4",
         "seller": "Geremy Labra",
         "date": "15/10/2022",
-        "price": "14000"
+        "location": "San Mernardo, Región Metropolitana de Santiago",
+        "desc": "Se usó una vez y se guardó, impecable casi nuevo",
+        "price": 14000
     },
     {
         "id": "IF013",
         "name": "Shovel Knight: Treasure Trove",
-        "genre": ["Plataforma"],
-        "img": "https://ibb.co/xDHpmCR",
-        "platform": "Xbox One",
+        "category": ["Plataforma"],
+        "img": "https://images.zmart.cl/Productos/SKU/2019/10/18/XBONEG1033_20191018171335_f.jpg",
+        "console": "Xbox One",
         "seller": "Ulises Loayza",
         "date": "12/10/2022",
-        "price": "24000"
+        "location": "Pedro Aguirre Cerda, Región Metropolitana de Santiago",
+        "desc": "Casi nuevo, en venta por poco uso",
+        "price": 24000
     },
     {
         "id": "IF014",
         "name": "Super Smash Bros Ultimate",
-        "genre": ["Lucha"],
-        "img": "https://ibb.co/YhYTkV8",
-        "platform": "Nintendo Switch",
+        "category": ["Lucha"],
+        "img": "https://images.zmart.cl/Productos/SKU/2018/12/05/NSWG0174_201812517107_f.jpg",
+        "console": "Nintendo Switch",
         "seller": "Héctor Hidalgo",
         "date": "09/10/2022",
-        "price": "17000"
+        "location": "San Ramón, Región Metropolitana de Santiago",
+        "desc": "Vendo por no uso debido al trabajo",
+        "price": 17000
     },
     {
         "id": "IF015",
         "name": "Nioh 2",
-        "genre": ["Acción", "RPG"],
-        "img": "https://ibb.co/MB3HWQY",
-        "platform": "PlayStation 4",
+        "category": ["Acción", "RPG"],
+        "img": "https://images.zmart.cl/Productos/SKU/2020/01/07/PS4G1087_202017222958_f.jpg",
+        "console": "PlayStation 4",
         "seller": "Javier Zabala",
         "date": "20/10/2022",
-        "price": "19000"
+        "location": "Recoleta, Región Metropolitana de Santiago",
+        "desc": "Vendo Nioh 2 en buen estado, ya lo terminé y no lo necesito",
+        "price": 19000
     }
 ]

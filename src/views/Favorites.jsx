@@ -1,20 +1,17 @@
 import React from 'react'
 import Footer from '../components/Footer'
-import NavbarDark from '../components/NavbarDark'
+import GameCard from '../components/GameCard'
+import NavbarDark from '../components/NavBar'
 
 const Favorites = () => {
   return (
     <>
       <NavbarDark />
-      <div className="container-fluid main-bg">
-            <div className="container bg-cyan">
-                <div className="row">
-                    <div className="col-12 col-lg-4">
-                        
-                    </div>
-                </div>
-            </div>    
-        </div>
+      <div className="container">
+        <div className="row">
+          <GameCard />          
+        </div>           
+      </div>
       <Footer />
     </>
   )

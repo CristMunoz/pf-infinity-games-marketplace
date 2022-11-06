@@ -1,22 +1,19 @@
 import React from 'react'
+import CreatePublication from '../components/CreatePublication'
 import Footer from '../components/Footer'
-import NavbarDark from '../components/NavbarDark'
+import NavbarDark from '../components/NavBar'
 
 const Publications = () => {
   return (
-    <div>
-        <NavbarDark />
-        <div className="container-fluid main-bg">
-            <div className="container bg-cyan">
-                <div className="row">
-                    <div className="col-12 col-lg-4">
-                        
-                    </div>
-                </div>
-            </div>    
+    <>
+      <NavbarDark />
+      <div className="container">
+        <div className="row  my-5">
+          <CreatePublication />
         </div>
-        <Footer />
-    </div>
+      </div> 
+      <Footer />
+    </>
   )
 }
 
